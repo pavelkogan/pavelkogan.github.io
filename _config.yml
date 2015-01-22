@@ -2,6 +2,7 @@ markdown:         kramdown
 highlighter:      pygments
 permalink:        pretty
 encoding:         utf-8
+baseurl:          '/'
 
 title:            'Pavel Kogan'
 timezone:         Europe/London
