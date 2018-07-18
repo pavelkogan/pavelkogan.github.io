@@ -23,5 +23,6 @@ author:
 kramdown:
   input:             GFM
 
-gems:
+plugins:
+  - jekyll-paginate
   - jekyll-sitemap
