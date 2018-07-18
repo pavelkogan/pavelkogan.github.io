@@ -1,7 +1,6 @@
 markdown:            kramdown
 highlighter:         pygments
 permalink:           pretty
-relative_permalinks: true
 encoding:            utf-8
 
 title:               'Pavel Kogan'
