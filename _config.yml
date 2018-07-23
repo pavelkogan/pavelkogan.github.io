@@ -1,6 +1,6 @@
 markdown:            kramdown
 highlighter:         pygments
-permalink:           pretty
+permalink:           /:title
 encoding:            utf-8
 
 title:               'Pavel Kogan'
@@ -25,4 +25,5 @@ kramdown:
 
 plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-sitemap
