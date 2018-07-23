@@ -8,6 +8,7 @@ timezone:            Europe/London
 paginate:            5
 
 exclude:             [modules, Gemfile*]
+include:             [_redirects]
 
 author:
   name:              'Pavel Kogan'
