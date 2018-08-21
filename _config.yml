@@ -1,6 +1,6 @@
 markdown:            kramdown
 highlighter:         pygments
-permalink:           /:title
+permalink:           /posts/:title
 encoding:            utf-8
 
 title:               'Pavel Kogan'
