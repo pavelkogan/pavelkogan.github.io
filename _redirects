@@ -1,0 +1,5 @@
+# Redirect rules for netlify
+
+/2014/:month/:day/:slug    /posts/:slug   301!
+/2015/:month/:day/:slug    /posts/:slug   301!
+/:year/:month/:day/:slug   /posts/:slug   301
